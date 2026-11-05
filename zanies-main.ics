@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900135822-2026-10-05T19-00-00@zanies-sync
-DTSTAMP:20261006T000000Z
-DTSTART:20261006T000000Z
-DTEND:20261006T013000Z
-SUMMARY:New Material Monday
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136363-2026-10-06T19-00-00@zanies-sync
 DTSTAMP:20261007T000000Z
 DTSTART:20261007T000000Z
@@ -434,8 +424,7 @@ DTEND:20261105T023000Z
 SUMMARY:Andi Marie Tillman & Friends
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/andi-marie-tillman-friends-2/zanies/nashville-tennessee/\nEnd time i
- s an estimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900134281-2026-11-05T19-00-00@zanies-sync
