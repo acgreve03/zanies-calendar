@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Build an iCalendar feed of Zanies Nashville shows.
+"""Build one iCalendar feed per Zanies Nashville room.
 
-Usage: python zanies_ics.py [output.ics]
+Usage: python zanies_ics.py [output_folder]
 Needs Python 3.9+ and nothing else installed. (On Windows: pip install tzdata)
 """
 import html
@@ -15,7 +15,11 @@ import urllib.request
 from datetime import date, datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
-ROOMS = ["Zanies", "The Lab"]  # remove a room to leave its shows out
+# Room name on the site -> (file name, calendar name)
+FEEDS = {
+    "Zanies": ("zanies-main.ics", "Zanies Main Room"),
+    "The Lab": ("zanies-lab.ics", "The Lab at Zanies"),
+}
 MONTHS_AHEAD = 6               # this month plus the next 5
 SHOW_LENGTH = timedelta(minutes=90)  # the site's end time is a placeholder
 
@@ -109,14 +113,14 @@ def utc_stamp(moment):
     return moment.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
 
-def build_ics(shows):
+def build_ics(shows, calendar_name):
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
         "PRODID:-//zanies-sync//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:Zanies Nashville",
+        f"X-WR-CALNAME:{escape(calendar_name)}",
         "X-WR-TIMEZONE:America/Chicago",
         "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
     ]
@@ -138,25 +142,34 @@ def build_ics(shows):
     return "\r\n".join(fold(line) for line in lines) + "\r\n"
 
 
+def write_file(path, text):
+    """Write to a temporary file, then swap it into place."""
+    with tempfile.NamedTemporaryFile("w", dir=os.path.dirname(path), delete=False,
+                                     newline="", encoding="utf-8") as tmp:
+        tmp.write(text)
+    os.chmod(tmp.name, 0o644)
+    os.replace(tmp.name, path)
+
+
 def main():
-    output = sys.argv[1] if len(sys.argv) > 1 else "zanies.ics"
+    folder = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else ".")
     today = datetime.now(CENTRAL).date()
-    shows = {}
+    shows_by_room = {room: {} for room in FEEDS}
     for start, end in month_ranges(today, MONTHS_AHEAD):
         for raw in fetch_month(start, end):
             show = to_show(raw)
-            if show and show["room"] in ROOMS:
-                shows[show["key"]] = show
-    if not shows:
-        raise SystemExit("Zanies returned no shows, so the existing feed was left unchanged.")
+            if show and show["room"] in FEEDS:
+                shows_by_room[show["room"]][show["key"]] = show
 
-    # Replace the file only once everything has succeeded.
-    folder = os.path.dirname(os.path.abspath(output))
-    with tempfile.NamedTemporaryFile("w", dir=folder, delete=False, newline="", encoding="utf-8") as tmp:
-        tmp.write(build_ics(shows.values()))
-    os.chmod(tmp.name, 0o644)
-    os.replace(tmp.name, output)
-    print(f"Wrote {len(shows)} shows to {output}")
+    # Check every room first, so a bad response changes neither feed.
+    for room, shows in shows_by_room.items():
+        if not shows:
+            raise SystemExit(f"Zanies returned no shows for {room}, so the feeds were left unchanged.")
+
+    for room, shows in shows_by_room.items():
+        filename, calendar_name = FEEDS[room]
+        write_file(os.path.join(folder, filename), build_ics(shows.values(), calendar_name))
+        print(f"Wrote {len(shows)} shows to {filename}")
 
 
 if __name__ == "__main__":

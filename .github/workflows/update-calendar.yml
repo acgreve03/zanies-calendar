@@ -1,13 +1,13 @@
 name: Update Zanies calendar
-
+ 
 on:
   schedule:
     - cron: "17 11 * * *"  # daily, around 5-6 AM Central
   workflow_dispatch:       # adds a manual "Run workflow" button
-
+ 
 permissions:
   contents: write
-
+ 
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -16,11 +16,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python zanies_ics.py zanies.ics
-      - name: Save the feed if it changed
+      - run: python zanies_ics.py
+      - name: Save the feeds if they changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add zanies.ics
-          git diff --cached --quiet || git commit -m "Update Zanies calendar"
+          git add zanies-main.ics zanies-lab.ics
+          git diff --cached --quiet || git commit -m "Update Zanies calendars"
           git push
