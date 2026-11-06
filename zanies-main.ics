@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136363-2026-10-06T19-00-00@zanies-sync
-DTSTAMP:20261007T000000Z
-DTSTART:20261007T000000Z
-DTEND:20261007T013000Z
-SUMMARY:Maddy Kelly
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900135933-2026-10-07T19-00-00@zanies-sync
 DTSTAMP:20261008T000000Z
 DTSTART:20261008T000000Z
@@ -434,8 +424,7 @@ DTEND:20261106T023000Z
 SUMMARY:Randy Feltface: Gimmick!
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/randy-feltface-gimmick/zanies/nashville-tennessee/\nEnd time is an e
- stimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900134282-2026-11-06T19-00-00@zanies-sync
@@ -2351,6 +2340,39 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/maria-bamford-4/zanies/nashville-tennessee/\nEnd time is an estimate
  . Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900201025-2027-05-14T19-00-00@zanies-sync
+DTSTAMP:20270515T000000Z
+DTSTART:20270515T000000Z
+DTEND:20270515T013000Z
+SUMMARY:Zoltan Kaszas: Road Warrior Tour
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/zoltan-kaszas-road-warrior-tour/zanies/nashville-tennessee/\nEnd tim
+ e is an estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900201027-2027-05-15T19-00-00@zanies-sync
+DTSTAMP:20270516T000000Z
+DTSTART:20270516T000000Z
+DTEND:20270516T013000Z
+SUMMARY:Zoltan Kaszas: Road Warrior Tour
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/zoltan-kaszas-road-warrior-tour-2/zanies/nashville-tennessee/\nEnd t
+ ime is an estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900201028-2027-05-16T19-00-00@zanies-sync
+DTSTAMP:20270517T000000Z
+DTSTART:20270517T000000Z
+DTEND:20270517T013000Z
+SUMMARY:Zoltan Kaszas: Road Warrior Tour
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/zoltan-kaszas-road-warrior-tour-3/zanies/nashville-tennessee/\nEnd t
+ ime is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900138107-2027-05-20T19-00-00@zanies-sync
