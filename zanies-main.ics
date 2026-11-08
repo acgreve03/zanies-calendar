@@ -7,26 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136085-2026-10-08T19-00-00@zanies-sync
-DTSTAMP:20261009T000000Z
-DTSTART:20261009T000000Z
-DTEND:20261009T013000Z
-SUMMARY:Chico Bean
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:2115137938-2026-10-08T21-15-00@zanies-sync
-DTSTAMP:20261009T021500Z
-DTSTART:20261009T021500Z
-DTEND:20261009T034500Z
-SUMMARY:Ron Taylor’s Birthday Bash
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136087-2026-10-09T19-00-00@zanies-sync
 DTSTAMP:20261010T000000Z
 DTSTART:20261010T000000Z
@@ -444,8 +424,7 @@ DTEND:20261108T023000Z
 SUMMARY:Randy Feltface: Gimmick!
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/randy-feltface-gimmick-4/zanies/nashville-tennessee/\nEnd time is an
-  estimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900134284-2026-11-07T21-15-00@zanies-sync
@@ -455,8 +434,7 @@ DTEND:20261108T044500Z
 SUMMARY:Randy Feltface: Gimmick!
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/randy-feltface-gimmick-5/zanies/nashville-tennessee/\nEnd time is an
-  estimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1800136373-2026-11-08T18-00-00@zanies-sync

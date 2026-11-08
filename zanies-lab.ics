@@ -7,26 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136237-2026-10-08T19-00-00@zanies-sync
-DTSTAMP:20261009T000000Z
-DTSTART:20261009T000000Z
-DTEND:20261009T013000Z
-SUMMARY:Tommy Pope (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:2115137624-2026-10-08T21-15-00@zanies-sync
-DTSTAMP:20261009T021500Z
-DTSTART:20261009T021500Z
-DTEND:20261009T034500Z
-SUMMARY:Drew Davis (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900135650-2026-10-09T19-00-00@zanies-sync
 DTSTAMP:20261010T000000Z
 DTSTART:20261010T000000Z
@@ -535,8 +515,7 @@ DTEND:20261107T233000Z
 SUMMARY:Flash Flood: If I Could Walk Tomorrow Benefit (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/flash-flood-if-i-could-walk-tomorrow-benefit/the-lab/\nEnd time is 
- an estimate. Check door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1830136342-2026-11-07T18-30-00@zanies-sync
@@ -546,8 +525,7 @@ DTEND:20261108T020000Z
 SUMMARY:Gabriel Rutledge (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/gabriel-rutledge-4/the-lab/\nEnd time is an estimate. Check door ti
- mes on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1830136342-2026-11-07T20-45-00@zanies-sync
@@ -557,8 +535,7 @@ DTEND:20261108T041500Z
 SUMMARY:Gabriel Rutledge (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/gabriel-rutledge-5/the-lab/\nEnd time is an estimate. Check door ti
- mes on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:2245136454-2026-11-07T22-45-00@zanies-sync
@@ -568,8 +545,7 @@ DTEND:20261108T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-141/the-lab/\nEnd time is an estimate. Check do
- or times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1445137100-2026-11-08T14-45-00@zanies-sync
