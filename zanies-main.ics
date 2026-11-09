@@ -7,26 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136087-2026-10-09T19-00-00@zanies-sync
-DTSTAMP:20261010T000000Z
-DTSTART:20261010T000000Z
-DTEND:20261010T013000Z
-SUMMARY:Chico Bean
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1900136087-2026-10-09T21-15-00@zanies-sync
-DTSTAMP:20261010T021500Z
-DTSTART:20261010T021500Z
-DTEND:20261010T034500Z
-SUMMARY:Chico Bean
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136089-2026-10-10T19-00-00@zanies-sync
 DTSTAMP:20261011T000000Z
 DTSTART:20261011T000000Z
@@ -444,8 +424,7 @@ DTEND:20261109T013000Z
 SUMMARY:Jason Salmon
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/jason-salmon-2/zanies/nashville-tennessee/\nEnd time is an estimate.
-  Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136742-2026-11-09T19-00-00@zanies-sync
