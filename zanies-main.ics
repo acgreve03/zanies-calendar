@@ -7,26 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136089-2026-10-10T19-00-00@zanies-sync
-DTSTAMP:20261011T000000Z
-DTSTART:20261011T000000Z
-DTEND:20261011T013000Z
-SUMMARY:Chico Bean
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1900136089-2026-10-10T21-15-00@zanies-sync
-DTSTAMP:20261011T021500Z
-DTSTART:20261011T021500Z
-DTEND:20261011T034500Z
-SUMMARY:Chico Bean
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1600135971-2026-10-11T16-00-00@zanies-sync
 DTSTAMP:20261011T210000Z
 DTSTART:20261011T210000Z
@@ -434,9 +414,7 @@ DTEND:20261110T023000Z
 SUMMARY:Scuffed Realtor Live w/ Nick Rochefort & Alex Schultz
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/scuffed-realtor-live-w-nick-rochefort-alex-schultz-3/zanies/nashvill
- e-tennessee/\nEnd time is an estimate. Check door times on the Zanies site
- .
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900137454-2026-11-10T19-00-00@zanies-sync
@@ -535,6 +513,17 @@ SUMMARY:Tacarra Williams
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/tacarra-williams-5/zanies/nashville-tennessee/\nEnd time is an estim
+ ate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1800136552-2026-11-15T20-30-00@zanies-sync
+DTSTAMP:20261116T023000Z
+DTSTART:20261116T023000Z
+DTEND:20261116T040000Z
+SUMMARY:Tacarra Williams
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/tacarra-williams-6/zanies/nashville-tennessee/\nEnd time is an estim
  ate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1911,6 +1900,39 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/new-material-monday-218/zanies/nashville-tennessee/\nEnd time is an 
  estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900214232-2027-03-11T19-00-00@zanies-sync
+DTSTAMP:20270312T010000Z
+DTSTART:20270312T010000Z
+DTEND:20270312T023000Z
+SUMMARY:Chad Daniels
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/chad-daniels-9/zanies/nashville-tennessee/\nEnd time is an estimate.
+  Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900214234-2027-03-12T19-00-00@zanies-sync
+DTSTAMP:20270313T010000Z
+DTSTART:20270313T010000Z
+DTEND:20270313T023000Z
+SUMMARY:Chad Daniels
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/chad-daniels-10/zanies/nashville-tennessee/\nEnd time is an estimate
+ . Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900214235-2027-03-13T19-00-00@zanies-sync
+DTSTAMP:20270314T010000Z
+DTSTART:20270314T010000Z
+DTEND:20270314T023000Z
+SUMMARY:Chad Daniels
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/chad-daniels-11/zanies/nashville-tennessee/\nEnd time is an estimate
+ . Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900193048-2027-03-15T19-00-00@zanies-sync

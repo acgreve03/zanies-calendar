@@ -7,56 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1200137628-2026-10-10T12-00-00@zanies-sync
-DTSTAMP:20261010T170000Z
-DTSTART:20261010T170000Z
-DTEND:20261010T183000Z
-SUMMARY:Clue: Murder Mystery Drag Brunch (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1600137835-2026-10-10T16-00-00@zanies-sync
-DTSTAMP:20261010T210000Z
-DTSTART:20261010T210000Z
-DTEND:20261010T223000Z
-SUMMARY:Ron Taylor (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1600137835-2026-10-10T18-30-00@zanies-sync
-DTSTAMP:20261010T233000Z
-DTSTART:20261010T233000Z
-DTEND:20261011T010000Z
-SUMMARY:Ron Taylor (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1600137835-2026-10-10T20-45-00@zanies-sync
-DTSTAMP:20261011T014500Z
-DTSTART:20261011T014500Z
-DTEND:20261011T031500Z
-SUMMARY:Ron Taylor (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:2245135836-2026-10-10T22-45-00@zanies-sync
-DTSTAMP:20261011T034500Z
-DTSTART:20261011T034500Z
-DTEND:20261011T051500Z
-SUMMARY:Dark & Dirty Showcase (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1800135515-2026-10-11T18-00-00@zanies-sync
 DTSTAMP:20261011T230000Z
 DTSTART:20261011T230000Z
@@ -555,8 +505,7 @@ DTEND:20261110T023000Z
 SUMMARY:Nateland Live: Good\, Clean\, Funny (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/nateland-live-good-clean-funny-106/the-lab/\nEnd time is an estimat
- e. Check door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136479-2026-11-10T19-00-00@zanies-sync
@@ -614,15 +563,15 @@ DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
   the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
-UID:1900136487-2026-11-13T21-15-00@zanies-sync
+UID:2115214252-2026-11-13T21-15-00@zanies-sync
 DTSTAMP:20261114T031500Z
 DTSTART:20261114T031500Z
 DTEND:20261114T044500Z
-SUMMARY:Laura Peek (The Lab)
+SUMMARY:Zanies Comedy Allstars (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/laura-peek-7/the-lab/\nEnd time is an estimate. Check door times on
-  the Zanies site.
+ m/show/zanies-comedy-allstars-204/the-lab/\nEnd time is an estimate. Check
+  door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1200138090-2026-11-14T12-00-00@zanies-sync
