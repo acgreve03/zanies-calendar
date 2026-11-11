@@ -7,26 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1800135515-2026-10-11T18-00-00@zanies-sync
-DTSTAMP:20261011T230000Z
-DTSTART:20261011T230000Z
-DTEND:20261012T003000Z
-SUMMARY:Tim Convy & Sean O’brien (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:2030136583-2026-10-11T20-30-00@zanies-sync
-DTSTAMP:20261012T013000Z
-DTSTART:20261012T013000Z
-DTEND:20261012T030000Z
-SUMMARY:Lukas McCrary (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900135827-2026-10-12T19-00-00@zanies-sync
 DTSTAMP:20261013T000000Z
 DTSTART:20261013T000000Z
@@ -515,8 +495,7 @@ DTEND:20261111T023000Z
 SUMMARY:Comedy Ramble (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/comedy-ramble-22/the-lab/\nEnd time is an estimate. Check door time
- s on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136394-2026-11-11T19-00-00@zanies-sync

@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1600135971-2026-10-11T16-00-00@zanies-sync
-DTSTAMP:20261011T210000Z
-DTSTART:20261011T210000Z
-DTEND:20261011T223000Z
-SUMMARY:Mike Goodwin
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900135823-2026-10-12T19-00-00@zanies-sync
 DTSTAMP:20261013T000000Z
 DTSTART:20261013T000000Z
@@ -424,8 +414,7 @@ DTEND:20261111T023000Z
 SUMMARY:Trish Suhr
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/trish-suhr-3/zanies/nashville-tennessee/\nEnd time is an estimate. C
- heck door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900135249-2026-11-11T19-00-00@zanies-sync
@@ -1262,6 +1251,17 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/pat-oneill/zanies/nashville-tennessee/\nEnd time is an estimate. Che
  ck door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900137418-2027-01-13T21-15-00@zanies-sync
+DTSTAMP:20270114T031500Z
+DTSTART:20270114T031500Z
+DTEND:20270114T044500Z
+SUMMARY:Pat O’Neill
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/pat-oneill-2/zanies/nashville-tennessee/\nEnd time is an estimate. C
+ heck door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900168079-2027-01-14T19-00-00@zanies-sync
