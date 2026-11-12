@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900135823-2026-10-12T19-00-00@zanies-sync
-DTSTAMP:20261013T000000Z
-DTSTART:20261013T000000Z
-DTEND:20261013T013000Z
-SUMMARY:New Material Monday
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136306-2026-10-13T19-00-00@zanies-sync
 DTSTAMP:20261014T000000Z
 DTSTART:20261014T000000Z
@@ -424,8 +414,7 @@ DTEND:20261112T023000Z
 SUMMARY:Modi: Working It Out
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/modi-working-it-out/zanies/nashville-tennessee/\nEnd time is an esti
- mate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900137806-2026-11-12T19-00-00@zanies-sync
@@ -920,6 +909,17 @@ SUMMARY:Tyler Fischer
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/tyler-fischer-6/zanies/nashville-tennessee/\nEnd time is an estimate
+ . Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1800134738-2026-12-13T20-30-00@zanies-sync
+DTSTAMP:20261214T023000Z
+DTSTART:20261214T023000Z
+DTEND:20261214T040000Z
+SUMMARY:Tyler Fischer
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/tyler-fischer-7/zanies/nashville-tennessee/\nEnd time is an estimate
  . Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1913,6 +1913,17 @@ DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
   Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
+UID:2115227302-2027-03-11T21-15-00@zanies-sync
+DTSTAMP:20270312T031500Z
+DTSTART:20270312T031500Z
+DTEND:20270312T044500Z
+SUMMARY:Shayne Smith
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/shayne-smith-4/zanies/nashville-tennessee/\nEnd time is an estimate.
+  Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
 UID:1900214234-2027-03-12T19-00-00@zanies-sync
 DTSTAMP:20270313T010000Z
 DTSTART:20270313T010000Z
@@ -1924,6 +1935,17 @@ DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  . Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
+UID:2115227304-2027-03-12T21-15-00@zanies-sync
+DTSTAMP:20270313T031500Z
+DTSTART:20270313T031500Z
+DTEND:20270313T044500Z
+SUMMARY:Shayne Smith
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/shayne-smith-5/zanies/nashville-tennessee/\nEnd time is an estimate.
+  Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
 UID:1900214235-2027-03-13T19-00-00@zanies-sync
 DTSTAMP:20270314T010000Z
 DTSTART:20270314T010000Z
@@ -1933,6 +1955,17 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/chad-daniels-11/zanies/nashville-tennessee/\nEnd time is an estimate
  . Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:2115227305-2027-03-13T21-15-00@zanies-sync
+DTSTAMP:20270314T031500Z
+DTSTART:20270314T031500Z
+DTEND:20270314T044500Z
+SUMMARY:Shayne Smith
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/shayne-smith-6/zanies/nashville-tennessee/\nEnd time is an estimate.
+  Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900193048-2027-03-15T19-00-00@zanies-sync

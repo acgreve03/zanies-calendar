@@ -7,16 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900135827-2026-10-12T19-00-00@zanies-sync
-DTSTAMP:20261013T000000Z
-DTSTART:20261013T000000Z
-DTEND:20261013T013000Z
-SUMMARY:Nateland Live: Good\, Clean\, Funny (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136015-2026-10-13T19-00-00@zanies-sync
 DTSTAMP:20261014T000000Z
 DTSTART:20261014T000000Z
@@ -505,8 +495,7 @@ DTEND:20261112T023000Z
 SUMMARY:Steve Furey (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/steve-furey/the-lab/\nEnd time is an estimate. Check door times on 
- the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136482-2026-11-12T19-00-00@zanies-sync
@@ -1368,17 +1357,6 @@ DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
  on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
-UID:2115137658-2027-01-01T21-15-00@zanies-sync
-DTSTAMP:20270102T031500Z
-DTSTART:20270102T031500Z
-DTEND:20270102T044500Z
-SUMMARY:Zanies Comedy Allstars (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/zanies-comedy-allstars-189/the-lab/\nEnd time is an estimate. Check
-  door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1830137484-2027-01-02T18-30-00@zanies-sync
 DTSTAMP:20270103T003000Z
 DTSTART:20270103T003000Z
@@ -1443,6 +1421,17 @@ LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
  m/show/yamaneika-saunders/the-lab/\nEnd time is an estimate. Check door ti
  mes on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:2115137658-2027-01-08T21-15-00@zanies-sync
+DTSTAMP:20270109T031500Z
+DTSTART:20270109T031500Z
+DTEND:20270109T044500Z
+SUMMARY:Zanies Comedy Allstars (The Lab)
+LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
+ m/show/zanies-comedy-allstars-189/the-lab/\nEnd time is an estimate. Check
+  door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1830137749-2027-01-09T18-30-00@zanies-sync
