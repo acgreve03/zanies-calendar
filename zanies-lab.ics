@@ -7,16 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136015-2026-10-13T19-00-00@zanies-sync
-DTSTAMP:20261014T000000Z
-DTSTART:20261014T000000Z
-DTEND:20261014T013000Z
-SUMMARY:Alistair Ogden (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136017-2026-10-14T19-00-00@zanies-sync
 DTSTAMP:20261015T000000Z
 DTSTART:20261015T000000Z
@@ -505,8 +495,7 @@ DTEND:20261113T023000Z
 SUMMARY:Laura Peek (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/laura-peek-5/the-lab/\nEnd time is an estimate. Check door times on
-  the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:2115136587-2026-11-12T21-15-00@zanies-sync
@@ -516,8 +505,7 @@ DTEND:20261113T044500Z
 SUMMARY:Jermaine “FunnyMaine” Johnson (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/jermaine-funnymaine-johnson-3/the-lab/\nEnd time is an estimate. Ch
- eck door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136487-2026-11-13T19-00-00@zanies-sync

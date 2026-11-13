@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136306-2026-10-13T19-00-00@zanies-sync
-DTSTAMP:20261014T000000Z
-DTSTART:20261014T000000Z
-DTEND:20261014T013000Z
-SUMMARY:Dusty Slay’s Grand Ole Comedy Show
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136013-2026-10-14T19-00-00@zanies-sync
 DTSTAMP:20261015T000000Z
 DTSTART:20261015T000000Z
@@ -424,8 +414,7 @@ DTEND:20261113T023000Z
 SUMMARY:Danae Hays
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/danae-hays-4/zanies/nashville-tennessee/\nEnd time is an estimate. C
- heck door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900130198-2026-11-13T19-00-00@zanies-sync
