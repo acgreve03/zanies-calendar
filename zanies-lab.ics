@@ -7,16 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136017-2026-10-14T19-00-00@zanies-sync
-DTSTAMP:20261015T000000Z
-DTSTART:20261015T000000Z
-DTEND:20261015T013000Z
-SUMMARY:Dave Stone (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900133464-2026-10-15T19-00-00@zanies-sync
 DTSTAMP:20261016T000000Z
 DTSTART:20261016T000000Z
@@ -515,8 +505,7 @@ DTEND:20261114T023000Z
 SUMMARY:Laura Peek (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/laura-peek-6/the-lab/\nEnd time is an estimate. Check door times on
-  the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:2115214252-2026-11-13T21-15-00@zanies-sync
@@ -526,8 +515,7 @@ DTEND:20261114T044500Z
 SUMMARY:Zanies Comedy Allstars (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/zanies-comedy-allstars-204/the-lab/\nEnd time is an estimate. Check
-  door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1200138090-2026-11-14T12-00-00@zanies-sync

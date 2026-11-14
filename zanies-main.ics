@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136013-2026-10-14T19-00-00@zanies-sync
-DTSTAMP:20261015T000000Z
-DTSTART:20261015T000000Z
-DTEND:20261015T013000Z
-SUMMARY:Frankie Quiñones
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136556-2026-10-15T19-00-00@zanies-sync
 DTSTAMP:20261016T000000Z
 DTSTART:20261016T000000Z
@@ -424,8 +414,7 @@ DTEND:20261114T023000Z
 SUMMARY:Shuler King
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/shuler-king-4/zanies/nashville-tennessee/\nEnd time is an estimate. 
- Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900130198-2026-11-13T21-15-00@zanies-sync
@@ -435,19 +424,7 @@ DTEND:20261114T044500Z
 SUMMARY:Shuler King
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/shuler-king-5/zanies/nashville-tennessee/\nEnd time is an estimate. 
- Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1600136475-2026-11-14T16-00-00@zanies-sync
-DTSTAMP:20261114T220000Z
-DTSTART:20261114T220000Z
-DTEND:20261114T233000Z
-SUMMARY:Led Varela *SHOW IN SPANISH*
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/led-varela-show-in-spanish/zanies/nashville-tennessee/\nEnd time is 
- an estimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900130206-2026-11-14T19-00-00@zanies-sync
