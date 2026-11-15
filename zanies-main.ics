@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136556-2026-10-15T19-00-00@zanies-sync
-DTSTAMP:20261016T000000Z
-DTSTART:20261016T000000Z
-DTEND:20261016T013000Z
-SUMMARY:Danae Hays
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136535-2026-10-16T19-00-00@zanies-sync
 DTSTAMP:20261017T000000Z
 DTSTART:20261017T000000Z
@@ -434,8 +424,7 @@ DTEND:20261115T023000Z
 SUMMARY:Shuler King
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/shuler-king-6/zanies/nashville-tennessee/\nEnd time is an estimate. 
- Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900130206-2026-11-14T21-15-00@zanies-sync
@@ -445,8 +434,7 @@ DTEND:20261115T044500Z
 SUMMARY:Shuler King
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/shuler-king-7/zanies/nashville-tennessee/\nEnd time is an estimate. 
- Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1800136552-2026-11-15T18-00-00@zanies-sync

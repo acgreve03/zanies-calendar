@@ -7,16 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900133464-2026-10-15T19-00-00@zanies-sync
-DTSTAMP:20261016T000000Z
-DTSTART:20261016T000000Z
-DTEND:20261016T013000Z
-SUMMARY:Greg Warren (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900133466-2026-10-16T19-00-00@zanies-sync
 DTSTAMP:20261017T000000Z
 DTSTART:20261017T000000Z
@@ -525,8 +515,7 @@ DTEND:20261114T193000Z
 SUMMARY:Rent Sing-Along Drag Brunch (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/rent-sing-along-drag-brunch-2/the-lab/\nEnd time is an estimate. Ch
- eck door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1600136500-2026-11-14T16-00-00@zanies-sync
@@ -536,8 +525,7 @@ DTEND:20261114T233000Z
 SUMMARY:Perfect Timing\, For a Perfect Cause (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/perfect-timing-for-a-perfect-cause/the-lab/\nEnd time is an estimat
- e. Check door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1830136489-2026-11-14T18-30-00@zanies-sync
@@ -547,8 +535,7 @@ DTEND:20261115T020000Z
 SUMMARY:Laura Peek (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/laura-peek-8/the-lab/\nEnd time is an estimate. Check door times on
-  the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1830136489-2026-11-14T20-45-00@zanies-sync
@@ -558,8 +545,7 @@ DTEND:20261115T041500Z
 SUMMARY:Laura Peek (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/laura-peek-9/the-lab/\nEnd time is an estimate. Check door times on
-  the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:2245136456-2026-11-14T22-45-00@zanies-sync
@@ -569,8 +555,7 @@ DTEND:20261115T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-142/the-lab/\nEnd time is an estimate. Check do
- or times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1400167395-2026-11-15T14-00-00@zanies-sync
