@@ -7,26 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136535-2026-10-16T19-00-00@zanies-sync
-DTSTAMP:20261017T000000Z
-DTSTART:20261017T000000Z
-DTEND:20261017T013000Z
-SUMMARY:Ralph Barbosa
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1900136535-2026-10-16T21-15-00@zanies-sync
-DTSTAMP:20261017T021500Z
-DTSTART:20261017T021500Z
-DTEND:20261017T034500Z
-SUMMARY:Ralph Barbosa
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1600136548-2026-10-17T16-00-00@zanies-sync
 DTSTAMP:20261017T210000Z
 DTSTART:20261017T210000Z
@@ -444,8 +424,7 @@ DTEND:20261116T013000Z
 SUMMARY:Tacarra Williams
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/tacarra-williams-5/zanies/nashville-tennessee/\nEnd time is an estim
- ate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1800136552-2026-11-15T20-30-00@zanies-sync
@@ -455,8 +434,7 @@ DTEND:20261116T040000Z
 SUMMARY:Tacarra Williams
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/tacarra-williams-6/zanies/nashville-tennessee/\nEnd time is an estim
- ate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136450-2026-11-16T19-00-00@zanies-sync
@@ -545,17 +523,6 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/jb-smoove-4/zanies/nashville-tennessee/\nEnd time is an estimate. Ch
  eck door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1700136642-2026-11-22T17-00-00@zanies-sync
-DTSTAMP:20261122T230000Z
-DTSTART:20261122T230000Z
-DTEND:20261123T003000Z
-SUMMARY:Elizabeth Brunot
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/elizabeth-brunot/zanies/nashville-tennessee/\nEnd time is an estimat
- e. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136451-2026-11-23T19-00-00@zanies-sync
@@ -1900,6 +1867,17 @@ DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
   Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
+UID:1600264054-2027-03-13T16-00-00@zanies-sync
+DTSTAMP:20270313T220000Z
+DTSTART:20270313T220000Z
+DTEND:20270313T233000Z
+SUMMARY:Heroes Off Duty Pres.: Scrubs & Badges LIVE!
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/heroes-off-duty-pres-scrubs-badges-live/zanies/nashville-tennessee/\
+ nEnd time is an estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
 UID:1900214235-2027-03-13T19-00-00@zanies-sync
 DTSTAMP:20270314T010000Z
 DTSTART:20270314T010000Z
@@ -1920,6 +1898,28 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/shayne-smith-6/zanies/nashville-tennessee/\nEnd time is an estimate.
   Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1800264042-2027-03-14T18-00-00@zanies-sync
+DTSTAMP:20270314T230000Z
+DTSTART:20270314T230000Z
+DTEND:20270315T003000Z
+SUMMARY:Sam Jay
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/sam-jay-3/zanies/nashville-tennessee/\nEnd time is an estimate. Chec
+ k door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1800264042-2027-03-14T20-30-00@zanies-sync
+DTSTAMP:20270315T013000Z
+DTSTART:20270315T013000Z
+DTEND:20270315T030000Z
+SUMMARY:Sam Jay
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/sam-jay-4/zanies/nashville-tennessee/\nEnd time is an estimate. Chec
+ k door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900193048-2027-03-15T19-00-00@zanies-sync

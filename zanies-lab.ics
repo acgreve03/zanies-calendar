@@ -7,26 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900133466-2026-10-16T19-00-00@zanies-sync
-DTSTAMP:20261017T000000Z
-DTSTART:20261017T000000Z
-DTEND:20261017T013000Z
-SUMMARY:Greg Warren (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1900133466-2026-10-16T21-15-00@zanies-sync
-DTSTAMP:20261017T021500Z
-DTSTART:20261017T021500Z
-DTEND:20261017T034500Z
-SUMMARY:Greg Warren (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1200137630-2026-10-17T12-00-00@zanies-sync
 DTSTAMP:20261017T170000Z
 DTSTART:20261017T170000Z
@@ -566,8 +546,7 @@ SUMMARY:Book Club Trivia: The Washwoman at the River’s End by Megan Shade
   (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/book-club-trivia-the-washwoman-at-the-rivers-end-by-megan-shade/the
- -lab/\nEnd time is an estimate. Check door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1830137061-2026-11-15T18-30-00@zanies-sync
@@ -577,8 +556,7 @@ DTEND:20261116T020000Z
 SUMMARY:Justin Whitehead (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/justin-whitehead-4/the-lab/\nEnd time is an estimate. Check door ti
- mes on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136457-2026-11-16T19-00-00@zanies-sync
@@ -757,6 +735,17 @@ DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
   on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
+UID:2115264045-2026-11-27T21-15-00@zanies-sync
+DTSTAMP:20261128T031500Z
+DTSTART:20261128T031500Z
+DTEND:20261128T044500Z
+SUMMARY:Zanies Comedy Allstars: Home For The Holidays (The Lab)
+LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
+ m/show/zanies-comedy-allstars-home-for-the-holidays-6/the-lab/\nEnd time i
+ s an estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
 UID:1200138094-2026-11-28T12-00-00@zanies-sync
 DTSTAMP:20261128T180000Z
 DTSTART:20261128T180000Z
@@ -779,15 +768,26 @@ DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
  es on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
+UID:2045264046-2026-11-28T20-45-00@zanies-sync
+DTSTAMP:20261129T024500Z
+DTSTART:20261129T024500Z
+DTEND:20261129T041500Z
+SUMMARY:Zanies Comedy Allstars: Home For The Holidays (The Lab)
+LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
+ m/show/zanies-comedy-allstars-home-for-the-holidays-7/the-lab/\nEnd time i
+ s an estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
 UID:2245136460-2026-11-28T22-45-00@zanies-sync
 DTSTAMP:20261129T044500Z
 DTSTART:20261129T044500Z
 DTEND:20261129T061500Z
-SUMMARY:Dark & Dirty Showcase (The Lab)
+SUMMARY:Dark & Dirty Showcase: Home For The Holidays (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-144/the-lab/\nEnd time is an estimate. Check do
- or times on the Zanies site.
+ m/show/dark-dirty-showcase-home-for-the-holidays/the-lab/\nEnd time is an 
+ estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1830136749-2026-11-29T18-30-00@zanies-sync
@@ -918,7 +918,7 @@ DTEND:20261206T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-145/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-144/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1050,7 +1050,7 @@ DTEND:20261213T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-146/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-145/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1193,7 +1193,7 @@ DTEND:20261220T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-147/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-146/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1248,7 +1248,7 @@ DTEND:20261227T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-148/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-147/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1347,7 +1347,7 @@ DTEND:20270103T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-151/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-148/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1424,7 +1424,7 @@ DTEND:20270110T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-152/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-151/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1512,7 +1512,7 @@ DTEND:20270117T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-153/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-152/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1536,6 +1536,17 @@ LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
  m/show/nateland-live-good-clean-funny-116/the-lab/\nEnd time is an estimat
  e. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900264047-2027-01-19T19-00-00@zanies-sync
+DTSTAMP:20270120T010000Z
+DTSTART:20270120T010000Z
+DTEND:20270120T023000Z
+SUMMARY:Comedy Ramble (The Lab)
+LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
+ m/show/comedy-ramble-24/the-lab/\nEnd time is an estimate. Check door time
+ s on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900137974-2027-01-20T19-00-00@zanies-sync
@@ -1611,7 +1622,7 @@ DTEND:20270124T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-154/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-153/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1710,7 +1721,7 @@ DTEND:20270131T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-155/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-154/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1765,7 +1776,7 @@ DTEND:20270207T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-156/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-155/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1831,7 +1842,7 @@ DTEND:20270214T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-157/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-156/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -1919,8 +1930,19 @@ DTEND:20270221T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-158/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-157/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900264048-2027-02-24T19-00-00@zanies-sync
+DTSTAMP:20270225T010000Z
+DTSTART:20270225T010000Z
+DTEND:20270225T023000Z
+SUMMARY:Comedy Ramble (The Lab)
+LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
+ m/show/comedy-ramble-25/the-lab/\nEnd time is an estimate. Check door time
+ s on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:2100214198-2027-02-24T21-00-00@zanies-sync
@@ -1996,7 +2018,7 @@ DTEND:20270228T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-159/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-158/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -2084,7 +2106,7 @@ DTEND:20270307T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-160/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-159/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -2161,7 +2183,7 @@ DTEND:20270314T061500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-161/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-160/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -2238,7 +2260,7 @@ DTEND:20270321T051500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-162/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-161/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
@@ -2251,6 +2273,17 @@ LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
  m/show/nateland-live-good-clean-funny-125/the-lab/\nEnd time is an estimat
  e. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900264049-2027-03-24T19-00-00@zanies-sync
+DTSTAMP:20270325T000000Z
+DTSTART:20270325T000000Z
+DTEND:20270325T013000Z
+SUMMARY:Dan Carney (The Lab)
+LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
+ m/show/dan-carney/the-lab/\nEnd time is an estimate. Check door times on t
+ he Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:2100214200-2027-03-24T21-00-00@zanies-sync
@@ -2282,7 +2315,7 @@ DTEND:20270328T051500Z
 SUMMARY:Dark & Dirty Showcase (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/dark-dirty-showcase-163/the-lab/\nEnd time is an estimate. Check do
+ m/show/dark-dirty-showcase-162/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
