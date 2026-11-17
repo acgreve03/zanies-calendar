@@ -7,36 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1600136548-2026-10-17T16-00-00@zanies-sync
-DTSTAMP:20261017T210000Z
-DTSTART:20261017T210000Z
-DTEND:20261017T223000Z
-SUMMARY:Ralph Barbosa
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1600136548-2026-10-17T19-00-00@zanies-sync
-DTSTAMP:20261018T000000Z
-DTSTART:20261018T000000Z
-DTEND:20261018T013000Z
-SUMMARY:Ralph Barbosa
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1600136548-2026-10-17T21-15-00@zanies-sync
-DTSTAMP:20261018T021500Z
-DTSTART:20261018T021500Z
-DTEND:20261018T034500Z
-SUMMARY:Ralph Barbosa
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1800136091-2026-10-18T18-00-00@zanies-sync
 DTSTAMP:20261018T230000Z
 DTSTART:20261018T230000Z
@@ -444,8 +414,7 @@ DTEND:20261117T023000Z
 SUMMARY:New Material Monday
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/new-material-monday-201/zanies/nashville-tennessee/\nEnd time is an 
- estimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136581-2026-11-17T19-00-00@zanies-sync
@@ -459,15 +428,15 @@ DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  imate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
-UID:1900137005-2026-11-18T19-00-00@zanies-sync
+UID:1900271929-2026-11-18T19-00-00@zanies-sync
 DTSTAMP:20261119T010000Z
 DTSTART:20261119T010000Z
 DTEND:20261119T023000Z
-SUMMARY:Ellen Skrmetti
+SUMMARY:Zanies Comedy Allstars
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/ellen-skrmetti-4/zanies/nashville-tennessee/\nEnd time is an estimat
- e. Check door times on the Zanies site.
+ /show/zanies-comedy-allstars-207/zanies/nashville-tennessee/\nEnd time is 
+ an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900132013-2026-11-19T19-00-00@zanies-sync
@@ -523,6 +492,17 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/jb-smoove-4/zanies/nashville-tennessee/\nEnd time is an estimate. Ch
  eck door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1800265202-2026-11-22T18-00-00@zanies-sync
+DTSTAMP:20261123T000000Z
+DTSTART:20261123T000000Z
+DTEND:20261123T013000Z
+SUMMARY:Zanies Comedy Allstars
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/zanies-comedy-allstars-205/zanies/nashville-tennessee/\nEnd time is 
+ an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136451-2026-11-23T19-00-00@zanies-sync
@@ -996,6 +976,17 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/new-material-monday-207/zanies/nashville-tennessee/\nEnd time is an 
  estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900137005-2026-12-30T19-00-00@zanies-sync
+DTSTAMP:20261231T010000Z
+DTSTART:20261231T010000Z
+DTEND:20261231T023000Z
+SUMMARY:Ellen Skrmetti
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/ellen-skrmetti-4/zanies/nashville-tennessee/\nEnd time is an estimat
+ e. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1930136176-2026-12-31T19-30-00@zanies-sync

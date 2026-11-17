@@ -7,46 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1200137630-2026-10-17T12-00-00@zanies-sync
-DTSTAMP:20261017T170000Z
-DTSTART:20261017T170000Z
-DTEND:20261017T183000Z
-SUMMARY:Dolly Parton Tribute Drag Brunch (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1830133468-2026-10-17T18-30-00@zanies-sync
-DTSTAMP:20261017T233000Z
-DTSTART:20261017T233000Z
-DTEND:20261018T010000Z
-SUMMARY:Greg Warren (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1830133468-2026-10-17T20-45-00@zanies-sync
-DTSTAMP:20261018T014500Z
-DTSTART:20261018T014500Z
-DTEND:20261018T031500Z
-SUMMARY:Greg Warren (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:2245135837-2026-10-17T22-45-00@zanies-sync
-DTSTAMP:20261018T034500Z
-DTSTART:20261018T034500Z
-DTEND:20261018T051500Z
-SUMMARY:Dark & Dirty Showcase (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1830138011-2026-10-18T18-30-00@zanies-sync
 DTSTAMP:20261018T233000Z
 DTSTART:20261018T233000Z
@@ -566,18 +526,17 @@ DTEND:20261117T023000Z
 SUMMARY:Nateland Live: Good\, Clean\, Funny (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/nateland-live-good-clean-funny-107/the-lab/\nEnd time is an estimat
- e. Check door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
-UID:1900135819-2026-11-17T19-00-00@zanies-sync
+UID:1900267411-2026-11-17T19-00-00@zanies-sync
 DTSTAMP:20261118T010000Z
 DTSTART:20261118T010000Z
 DTEND:20261118T023000Z
-SUMMARY:Gabe Gibbs: Waste of Talent (The Lab)
+SUMMARY:Zanies Comedy Allstars (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/gabe-gibbs-waste-of-talent/the-lab/\nEnd time is an estimate. Check
+ m/show/zanies-comedy-allstars-206/the-lab/\nEnd time is an estimate. Check
   door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
