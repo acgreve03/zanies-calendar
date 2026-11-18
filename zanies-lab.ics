@@ -7,16 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1830138011-2026-10-18T18-30-00@zanies-sync
-DTSTAMP:20261018T233000Z
-DTSTART:20261018T233000Z
-DTEND:20261019T010000Z
-SUMMARY:Zanies Comedy Allstars (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900135828-2026-10-19T19-00-00@zanies-sync
 DTSTAMP:20261020T000000Z
 DTSTART:20261020T000000Z
@@ -536,8 +526,7 @@ DTEND:20261118T023000Z
 SUMMARY:Zanies Comedy Allstars (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/zanies-comedy-allstars-206/the-lab/\nEnd time is an estimate. Check
-  door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900190810-2026-11-18T19-00-00@zanies-sync
@@ -593,17 +582,6 @@ LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
  m/show/roast-battle-league-nashville-16/the-lab/\nEnd time is an estimate.
   Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1200138092-2026-11-21T12-00-00@zanies-sync
-DTSTAMP:20261121T180000Z
-DTSTART:20261121T180000Z
-DTEND:20261121T193000Z
-SUMMARY:Karen Dress Up Drag Brunch (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/karen-dress-up-drag-brunch/the-lab/\nEnd time is an estimate. Check
-  door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1830137760-2026-11-21T18-30-00@zanies-sync
@@ -1825,17 +1803,6 @@ LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
  m/show/comedy-clash-9/the-lab/\nEnd time is an estimate. Check door times 
  on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1900190807-2027-02-17T19-00-00@zanies-sync
-DTSTAMP:20270218T010000Z
-DTSTART:20270218T010000Z
-DTEND:20270218T023000Z
-SUMMARY:Samuel Orson (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/samuel-orson/the-lab/\nEnd time is an estimate. Check door times on
-  the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900135300-2027-02-19T19-00-00@zanies-sync
