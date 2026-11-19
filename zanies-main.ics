@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900135824-2026-10-19T19-00-00@zanies-sync
-DTSTAMP:20261020T000000Z
-DTSTART:20261020T000000Z
-DTEND:20261020T013000Z
-SUMMARY:New Material Monday
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136777-2026-10-20T19-00-00@zanies-sync
 DTSTAMP:20261021T000000Z
 DTSTART:20261021T000000Z
@@ -424,8 +414,7 @@ DTEND:20261119T023000Z
 SUMMARY:Zanies Comedy Allstars
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/zanies-comedy-allstars-207/zanies/nashville-tennessee/\nEnd time is 
- an estimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900132013-2026-11-19T19-00-00@zanies-sync

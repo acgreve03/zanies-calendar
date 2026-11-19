@@ -7,16 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900135828-2026-10-19T19-00-00@zanies-sync
-DTSTAMP:20261020T000000Z
-DTSTART:20261020T000000Z
-DTEND:20261020T013000Z
-SUMMARY:Nateland Live: Good\, Clean\, Funny (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136101-2026-10-20T19-00-00@zanies-sync
 DTSTAMP:20261021T000000Z
 DTSTART:20261021T000000Z
@@ -536,8 +526,7 @@ DTEND:20261119T023000Z
 SUMMARY:Book Club Trivia: Harry Potter and the Chamber of Secrets (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/book-club-trivia-harry-potter-and-the-chamber-of-secrets/the-lab/\n
- End time is an estimate. Check door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:2130167736-2026-11-18T21-30-00@zanies-sync
@@ -547,8 +536,7 @@ DTEND:20261119T050000Z
 SUMMARY:Let Loose at The Lab (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/let-loose-at-the-lab-13/the-lab/\nEnd time is an estimate. Check do
- or times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136558-2026-11-19T19-00-00@zanies-sync
