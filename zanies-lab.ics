@@ -7,16 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136101-2026-10-20T19-00-00@zanies-sync
-DTSTAMP:20261021T000000Z
-DTSTART:20261021T000000Z
-DTEND:20261021T013000Z
-SUMMARY:Comedy Ramble (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136102-2026-10-21T19-00-00@zanies-sync
 DTSTAMP:20261022T000000Z
 DTSTART:20261022T000000Z
@@ -546,8 +536,7 @@ DTEND:20261120T023000Z
 SUMMARY:Chris Munch (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/chris-munch/the-lab/\nEnd time is an estimate. Check door times on 
- the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900137758-2026-11-20T19-00-00@zanies-sync

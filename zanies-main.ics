@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136777-2026-10-20T19-00-00@zanies-sync
-DTSTAMP:20261021T000000Z
-DTSTART:20261021T000000Z
-DTEND:20261021T013000Z
-SUMMARY:Nasser Al-Rayess
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136134-2026-10-21T19-00-00@zanies-sync
 DTSTAMP:20261022T000000Z
 DTSTART:20261022T000000Z
@@ -424,8 +414,7 @@ DTEND:20261120T023000Z
 SUMMARY:Josh Wolf: Touring Hard
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/josh-wolf-touring-hard/zanies/nashville-tennessee/\nEnd time is an e
- stimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136052-2026-11-20T19-00-00@zanies-sync
@@ -1064,6 +1053,17 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/new-material-monday-208/zanies/nashville-tennessee/\nEnd time is an 
  estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900278052-2027-01-05T19-00-00@zanies-sync
+DTSTAMP:20270106T010000Z
+DTSTART:20270106T010000Z
+DTEND:20270106T023000Z
+SUMMARY:Cashville Tonight! with Austin & Colin
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/cashville-tonight-with-austin-colin/zanies/nashville-tennessee/\nEnd
+  time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900137735-2027-01-07T19-00-00@zanies-sync
@@ -1935,6 +1935,17 @@ DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  imate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
+UID:1900278054-2027-03-18T19-00-00@zanies-sync
+DTSTAMP:20270319T000000Z
+DTSTART:20270319T000000Z
+DTEND:20270319T013000Z
+SUMMARY:Bassem Youssef
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/bassem-youssef/zanies/nashville-tennessee/\nEnd time is an estimate.
+  Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
 UID:1900193049-2027-03-22T19-00-00@zanies-sync
 DTSTAMP:20270323T000000Z
 DTSTART:20270323T000000Z
@@ -2307,6 +2318,17 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/zoltan-kaszas-road-warrior-tour-2/zanies/nashville-tennessee/\nEnd t
  ime is an estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1600278056-2027-05-16T16-00-00@zanies-sync
+DTSTAMP:20270516T210000Z
+DTSTART:20270516T210000Z
+DTEND:20270516T223000Z
+SUMMARY:Sindhu Vee
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/sindhu-vee/zanies/nashville-tennessee/\nEnd time is an estimate. Che
+ ck door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900201028-2027-05-16T19-00-00@zanies-sync
