@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136134-2026-10-21T19-00-00@zanies-sync
-DTSTAMP:20261022T000000Z
-DTSTART:20261022T000000Z
-DTEND:20261022T013000Z
-SUMMARY:Hugh Howser & Friends
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136884-2026-10-22T19-00-00@zanies-sync
 DTSTAMP:20261023T000000Z
 DTSTART:20261023T000000Z
@@ -424,8 +414,7 @@ DTEND:20261121T023000Z
 SUMMARY:JB Smoove
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/jb-smoove/zanies/nashville-tennessee/\nEnd time is an estimate. Chec
- k door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136052-2026-11-20T21-15-00@zanies-sync
@@ -435,8 +424,7 @@ DTEND:20261121T044500Z
 SUMMARY:JB Smoove
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/jb-smoove-2/zanies/nashville-tennessee/\nEnd time is an estimate. Ch
- eck door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136055-2026-11-21T19-00-00@zanies-sync
@@ -943,6 +931,39 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/closed-for-christmas-7/zanies/nashville-tennessee/\nEnd time is an e
  stimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1800283227-2026-12-26T18-00-00@zanies-sync
+DTSTAMP:20261227T000000Z
+DTSTART:20261227T000000Z
+DTEND:20261227T013000Z
+SUMMARY:Aaron Weber & Brian Bates
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/aaron-weber-brian-bates/zanies/nashville-tennessee/\nEnd time is an 
+ estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1800283227-2026-12-26T20-30-00@zanies-sync
+DTSTAMP:20261227T023000Z
+DTSTART:20261227T023000Z
+DTEND:20261227T040000Z
+SUMMARY:Aaron Weber & Brian Bates
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/aaron-weber-brian-bates-2/zanies/nashville-tennessee/\nEnd time is a
+ n estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1800283230-2026-12-27T18-00-00@zanies-sync
+DTSTAMP:20261228T000000Z
+DTSTART:20261228T000000Z
+DTEND:20261228T013000Z
+SUMMARY:Aaron Weber & Brian Bates
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/aaron-weber-brian-bates-3/zanies/nashville-tennessee/\nEnd time is a
+ n estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136848-2026-12-28T19-00-00@zanies-sync
