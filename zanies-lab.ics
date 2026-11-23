@@ -7,26 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136160-2026-10-23T19-00-00@zanies-sync
-DTSTAMP:20261024T000000Z
-DTSTART:20261024T000000Z
-DTEND:20261024T013000Z
-SUMMARY:Rosebud Baker (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:2115138260-2026-10-23T21-15-00@zanies-sync
-DTSTAMP:20261024T021500Z
-DTSTART:20261024T021500Z
-DTEND:20261024T034500Z
-SUMMARY:Zanies Comedy Allstars (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1200137635-2026-10-24T12-00-00@zanies-sync
 DTSTAMP:20261024T170000Z
 DTSTART:20261024T170000Z
@@ -566,8 +546,7 @@ DTEND:20261123T020000Z
 SUMMARY:Fall Follies (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/fall-follies/the-lab/\nEnd time is an estimate. Check door times on
-  the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136459-2026-11-23T19-00-00@zanies-sync
@@ -1329,6 +1308,17 @@ DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
  e Zanies site.
 END:VEVENT
 BEGIN:VEVENT
+UID:1900291640-2027-01-13T19-00-00@zanies-sync
+DTSTAMP:20270114T010000Z
+DTSTART:20270114T010000Z
+DTEND:20270114T023000Z
+SUMMARY:Jokes Slingers (The Lab)
+LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
+ m/show/jokes-slingers/the-lab/\nEnd time is an estimate. Check door times 
+ on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
 UID:2100214195-2027-01-13T21-00-00@zanies-sync
 DTSTAMP:20270114T030000Z
 DTSTART:20270114T030000Z
@@ -1338,6 +1328,17 @@ LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
  m/show/let-loose-at-the-lab-17/the-lab/\nEnd time is an estimate. Check do
  or times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900291642-2027-01-14T19-00-00@zanies-sync
+DTSTAMP:20270115T010000Z
+DTSTART:20270115T010000Z
+DTEND:20270115T023000Z
+SUMMARY:Greg Hall (The Lab)
+LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
+ m/show/greg-hall/the-lab/\nEnd time is an estimate. Check door times on th
+ e Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136507-2027-01-15T19-00-00@zanies-sync
@@ -2207,6 +2208,17 @@ LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
  m/show/luke-kidgell/the-lab/\nEnd time is an estimate. Check door times on
   the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900291345-2027-03-31T19-00-00@zanies-sync
+DTSTAMP:20270401T000000Z
+DTSTART:20270401T000000Z
+DTEND:20270401T013000Z
+SUMMARY:Mal Hall (The Lab)
+LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
+ m/show/mal-hall/the-lab/\nEnd time is an estimate. Check door times on the
+  Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900138177-2027-04-01T19-00-00@zanies-sync

@@ -7,26 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900135167-2026-10-23T19-00-00@zanies-sync
-DTSTAMP:20261024T000000Z
-DTSTART:20261024T000000Z
-DTEND:20261024T013000Z
-SUMMARY:Ben Bankas
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1900135167-2026-10-23T21-15-00@zanies-sync
-DTSTAMP:20261024T021500Z
-DTSTART:20261024T021500Z
-DTEND:20261024T034500Z
-SUMMARY:Ben Bankas
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1600138100-2026-10-24T16-00-00@zanies-sync
 DTSTAMP:20261024T210000Z
 DTSTART:20261024T210000Z
@@ -444,8 +424,7 @@ DTEND:20261123T013000Z
 SUMMARY:Zanies Comedy Allstars
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/zanies-comedy-allstars-205/zanies/nashville-tennessee/\nEnd time is 
- an estimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136451-2026-11-23T19-00-00@zanies-sync
@@ -1273,6 +1252,17 @@ DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  see/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
+UID:1900291339-2027-01-21T19-00-00@zanies-sync
+DTSTAMP:20270122T010000Z
+DTSTART:20270122T010000Z
+DTEND:20270122T023000Z
+SUMMARY:Misha Brown
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/misha-brown/zanies/nashville-tennessee/\nEnd time is an estimate. Ch
+ eck door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
 UID:1900137725-2027-01-22T19-00-00@zanies-sync
 DTSTAMP:20270123T010000Z
 DTSTART:20270123T010000Z
@@ -1955,6 +1945,50 @@ DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
   Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
+UID:1900291341-2027-03-19T19-00-00@zanies-sync
+DTSTAMP:20270320T000000Z
+DTSTART:20270320T000000Z
+DTEND:20270320T013000Z
+SUMMARY:Bassem Youssef
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/bassem-youssef-2/zanies/nashville-tennessee/\nEnd time is an estimat
+ e. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900291341-2027-03-19T21-15-00@zanies-sync
+DTSTAMP:20270320T021500Z
+DTSTART:20270320T021500Z
+DTEND:20270320T034500Z
+SUMMARY:Bassem Youssef
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/bassem-youssef-3/zanies/nashville-tennessee/\nEnd time is an estimat
+ e. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900291343-2027-03-20T19-00-00@zanies-sync
+DTSTAMP:20270321T000000Z
+DTSTART:20270321T000000Z
+DTEND:20270321T013000Z
+SUMMARY:Bassem Youssef
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/bassem-youssef-4/zanies/nashville-tennessee/\nEnd time is an estimat
+ e. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900291343-2027-03-20T21-15-00@zanies-sync
+DTSTAMP:20270321T021500Z
+DTSTART:20270321T021500Z
+DTEND:20270321T034500Z
+SUMMARY:Bassem Youssef
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/bassem-youssef-5/zanies/nashville-tennessee/\nEnd time is an estimat
+ e. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
 UID:1900193049-2027-03-22T19-00-00@zanies-sync
 DTSTAMP:20270323T000000Z
 DTSTART:20270323T000000Z
@@ -1964,6 +1998,61 @@ LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
  /show/new-material-monday-220/zanies/nashville-tennessee/\nEnd time is an 
  estimate. Check door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900291489-2027-03-25T19-00-00@zanies-sync
+DTSTAMP:20270326T000000Z
+DTSTART:20270326T000000Z
+DTEND:20270326T013000Z
+SUMMARY:Sommore
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/sommore-6/zanies/nashville-tennessee/\nEnd time is an estimate. Chec
+ k door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900291491-2027-03-26T19-00-00@zanies-sync
+DTSTAMP:20270327T000000Z
+DTSTART:20270327T000000Z
+DTEND:20270327T013000Z
+SUMMARY:Sommore
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/sommore-7/zanies/nashville-tennessee/\nEnd time is an estimate. Chec
+ k door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900291491-2027-03-26T21-15-00@zanies-sync
+DTSTAMP:20270327T021500Z
+DTSTART:20270327T021500Z
+DTEND:20270327T034500Z
+SUMMARY:Sommore
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/sommore-8/zanies/nashville-tennessee/\nEnd time is an estimate. Chec
+ k door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900291493-2027-03-27T19-00-00@zanies-sync
+DTSTAMP:20270328T000000Z
+DTSTART:20270328T000000Z
+DTEND:20270328T013000Z
+SUMMARY:Sommore
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/sommore-9/zanies/nashville-tennessee/\nEnd time is an estimate. Chec
+ k door times on the Zanies site.
+END:VEVENT
+BEGIN:VEVENT
+UID:1900291493-2027-03-27T21-15-00@zanies-sync
+DTSTAMP:20270328T021500Z
+DTSTART:20270328T021500Z
+DTEND:20270328T034500Z
+SUMMARY:Sommore
+LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
+DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
+ /show/sommore-10/zanies/nashville-tennessee/\nEnd time is an estimate. Che
+ ck door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900193050-2027-03-29T19-00-00@zanies-sync
