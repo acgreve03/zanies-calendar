@@ -7,46 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1200137635-2026-10-24T12-00-00@zanies-sync
-DTSTAMP:20261024T170000Z
-DTSTART:20261024T170000Z
-DTEND:20261024T183000Z
-SUMMARY:Hocus Pocus Drag Brunch (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:1830136167-2026-10-24T18-30-00@zanies-sync
-DTSTAMP:20261024T233000Z
-DTSTART:20261024T233000Z
-DTEND:20261025T010000Z
-SUMMARY:Rosebud Baker (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:2045135829-2026-10-24T20-45-00@zanies-sync
-DTSTAMP:20261025T014500Z
-DTSTART:20261025T014500Z
-DTEND:20261025T031500Z
-SUMMARY:Zanies Comedy Allstars (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
-UID:2245135839-2026-10-24T22-45-00@zanies-sync
-DTSTAMP:20261025T034500Z
-DTSTART:20261025T034500Z
-DTEND:20261025T051500Z
-SUMMARY:Dark & Dirty Showcase (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1830131325-2026-10-25T18-30-00@zanies-sync
 DTSTAMP:20261025T233000Z
 DTSTART:20261025T233000Z
@@ -556,8 +516,7 @@ DTEND:20261124T023000Z
 SUMMARY:Nateland Live: Good\, Clean\, Funny (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/nateland-live-good-clean-funny-108/the-lab/\nEnd time is an estimat
- e. Check door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900137872-2026-11-24T19-00-00@zanies-sync
