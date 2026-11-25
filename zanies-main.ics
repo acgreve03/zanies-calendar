@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1800137003-2026-10-25T18-00-00@zanies-sync
-DTSTAMP:20261025T230000Z
-DTSTART:20261025T230000Z
-DTEND:20261026T003000Z
-SUMMARY:Kid Fury: Furious Thoughts Live
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900135825-2026-10-26T19-00-00@zanies-sync
 DTSTAMP:20261027T000000Z
 DTSTART:20261027T000000Z
@@ -414,8 +404,7 @@ DTEND:20261125T023000Z
 SUMMARY:Dusty Slay’s Grand Ole Comedy Show
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/dusty-slays-grand-ole-comedy-show-53/zanies/nashville-tennessee/\nEn
- d time is an estimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900137416-2026-11-25T19-00-00@zanies-sync

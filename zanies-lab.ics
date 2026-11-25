@@ -7,16 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1830131325-2026-10-25T18-30-00@zanies-sync
-DTSTAMP:20261025T233000Z
-DTSTART:20261025T233000Z
-DTEND:20261026T010000Z
-SUMMARY:Catacombs & Comedians (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900135830-2026-10-26T19-00-00@zanies-sync
 DTSTAMP:20261027T000000Z
 DTSTART:20261027T000000Z
@@ -526,8 +516,7 @@ DTEND:20261125T023000Z
 SUMMARY:Darius Bradford Is Coming to Work (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/darius-bradford-is-coming-to-work/the-lab/\nEnd time is an estimate
- . Check door times on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900172496-2026-11-25T19-00-00@zanies-sync
