@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900135825-2026-10-26T19-00-00@zanies-sync
-DTSTAMP:20261027T000000Z
-DTSTART:20261027T000000Z
-DTEND:20261027T013000Z
-SUMMARY:New Material Monday
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136371-2026-10-27T19-00-00@zanies-sync
 DTSTAMP:20261028T000000Z
 DTSTART:20261028T000000Z
@@ -414,8 +404,7 @@ DTEND:20261126T023000Z
 SUMMARY:Monty Franklin
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/monty-franklin-5/zanies/nashville-tennessee/\nEnd time is an estimat
- e. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:0000155524-2026-11-26T00-00-00@zanies-sync

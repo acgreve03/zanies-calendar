@@ -7,16 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900135830-2026-10-26T19-00-00@zanies-sync
-DTSTAMP:20261027T000000Z
-DTSTART:20261027T000000Z
-DTEND:20261027T013000Z
-SUMMARY:Nateland Live: Good\, Clean\, Funny (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900134611-2026-10-27T19-00-00@zanies-sync
 DTSTAMP:20261028T000000Z
 DTSTART:20261028T000000Z
@@ -526,8 +516,7 @@ DTEND:20261126T023000Z
 SUMMARY:Willie Lynch\, Jr (The Lab)
 LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/show/willie-lynch-jr/the-lab/\nEnd time is an estimate. Check door times
-  on the Zanies site.
+ m/events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1900136639-2026-11-27T19-00-00@zanies-sync
