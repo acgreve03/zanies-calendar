@@ -7,16 +7,6 @@ X-WR-CALNAME:The Lab at Zanies
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900134611-2026-10-27T19-00-00@zanies-sync
-DTSTAMP:20261028T000000Z
-DTSTART:20261028T000000Z
-DTEND:20261028T013000Z
-SUMMARY:Spread The JOY Fundraiser (The Lab)
-LOCATION:The Lab at Zanies\, 2019 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: The Lab\nTickets and details: https://nashville.zanies.co
- m/events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900137944-2026-10-28T19-00-00@zanies-sync
 DTSTAMP:20261029T000000Z
 DTSTART:20261029T000000Z

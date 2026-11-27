@@ -7,16 +7,6 @@ X-WR-CALNAME:Zanies Main Room
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:1900136371-2026-10-27T19-00-00@zanies-sync
-DTSTAMP:20261028T000000Z
-DTSTART:20261028T000000Z
-DTEND:20261028T013000Z
-SUMMARY:John Goblikon’s GOBLIWEEN
-LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
-DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /events/\nEnd time is an estimate. Check door times on the Zanies site.
-END:VEVENT
-BEGIN:VEVENT
 UID:1900136755-2026-10-28T19-00-00@zanies-sync
 DTSTAMP:20261029T000000Z
 DTSTART:20261029T000000Z
@@ -414,8 +404,7 @@ DTEND:20261126T073000Z
 SUMMARY:Closed for Thanksgiving!
 LOCATION:Zanies\, 2025 8th Ave S\, Nashville\, TN 37204
 DESCRIPTION:Room: Zanies\nTickets and details: https://nashville.zanies.com
- /show/closed-for-thanksgiving-3/zanies/nashville-tennessee/\nEnd time is a
- n estimate. Check door times on the Zanies site.
+ /events/\nEnd time is an estimate. Check door times on the Zanies site.
 END:VEVENT
 BEGIN:VEVENT
 UID:1800140400-2026-11-27T18-00-00@zanies-sync
